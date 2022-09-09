@@ -10,9 +10,9 @@ Vu Hoang</a></h1>
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- 🌱 I’m currently Working on AI Engineer
+- 🌱 I’m currently an AI Engineer
 
-- 🌱 I’m currently learning Swift && SwiftUI <a href="https://github.com/100rabhcsmc/100DaysOfSwift" target="blank">100DaysOfSwift</a>
+- 🌱 I’m currently learning  recommender systems and chatbot system
 
 - 📝 Vu has experience in the field of AI, especially in natural language processing.
 He has a lot of research in this field and has published several articles published at national and international conferences. Some of Vu's articles are "Investigating Monolingual and Multilingual BERTModels for Vietnamese Aspect Category Detection", "VLSP 2021 Competition Award Second Rank-In the shared task of Recognizing Textual Entailment (En-Vi and Vi-En). </br>
@@ -53,10 +53,6 @@ He has a lot of research in this field and has published several articles publis
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
-
-- [Download Instagram profile picture using python](https://dev.to/100rabhcsmc/instagram-profile-picture-download-using-python-n2j)
-- [Convert a image to sketch using python](https://dev.to/100rabhcsmc/convert-a-image-to-sketch-using-python-3ip1)
-- [Upload your project/files in GitHub using commands](https://dev.to/100rabhcsmc/upload-your-project-files-in-github-using-commands-1hn8)
 <!-- BLOG-POST-LIST:END -->
 
 ---
