@@ -2,7 +2,7 @@
 Vu Hoang</a></h1>
 <h3 align="center">AI Engineer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=100rabhcsmc&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" /> </p>
+<p align="left"> <i class="fa-brands fa-facebook"></i> </p>
 
 <p align="left"> <a href="https://www.instagram.com/iamxuanvu/" target="blank"><img src="[https://img.shields.io/twitter/follow/100rabhcsmc?logo=twitter&style=for-the-badge](https://flyclipart.com/thumb2/facebook-fb-icon-753256.png)" alt="100rabhcsmc" /></a> </p>
 
